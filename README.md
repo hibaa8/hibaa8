@@ -1,16 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hiba</h1>
 <h3 align="center">A computer science student at Columbia University</h3>
 
-- I’m currently working on [SmartMeds](https://github.com/hibaa8/SmartMeds/tree/main)
-
-- I’m currently learning **Node.js & Reinforcement Learning**
-
-- How to reach me **hibaaltaf98@gmail.com**
+- I am intrested in full-stack web development and Artificial Intelligence
+- I’m am learning **Node.js & Reinforcement Learning**
+- Currently working on [SmartMeds](https://github.com/hibaa8/SmartMeds/tree/main)
+- You can reach me at: **hibaaltaf98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/hiba-altaf-5aa2a21b5" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba-altaf-5aa2a21b5" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hiba-altaf-5aa2a21b5" height="20" width="30" />
   </a>
 </p>
 
