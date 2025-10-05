@@ -4,7 +4,7 @@
 - I am intrested in full-stack web development and Artificial Intelligence
 - I’m am learning **Node.js & Reinforcement Learning**
 - Currently working on
-    - [CodeCure]([https://github.com/hibaa8/SmartMeds/tree/main](https://github.com/angelica-moreira/CodeCure))
+    - [CodeCure Research Project](https://github.com/angelica-moreira/CodeCure)
     - [Columbia Space Initiative Website](https://github.com/columbiaspace/columbiaspace.org)
     - [Columbia Women in Computer Science Website](https://github.com/CUWiCS/cuwics.github.io/tree/summer-update)
 - You can reach me at: **hibaaltaf98@gmail.com**
