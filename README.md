@@ -4,6 +4,7 @@
 - I am intrested in full-stack web development and Artificial Intelligence
 - I’m am learning **Node.js & LangGraph**
 - Currently wroking on
+    - AI Gym + Nutrition training iOS app (private repo during development)
     - [Agentic Study Tool](https://github.com/hibaa8/agentic-study-tool)
 - Past External Projects Spotlight
     - [CodeCure Research Project](https://github.com/angelica-moreira/CodeCure)
