@@ -2,8 +2,10 @@
 <h3 align="center">A computer science student at Columbia University</h3>
 
 - I am intrested in full-stack web development and Artificial Intelligence
-- I’m am learning **Node.js & Reinforcement Learning**
-- Currently working on
+- I’m am learning **Node.js & LangGraph**
+- Currently wroking on
+    - [Agentic Study Tool](https://github.com/hibaa8/agentic-study-tool)
+- Past External Projects Spotlight
     - [CodeCure Research Project](https://github.com/angelica-moreira/CodeCure)
     - [Columbia Space Initiative Website](https://github.com/columbiaspace/columbiaspace.org)
     - [Columbia Women in Computer Science Website](https://github.com/CUWiCS/cuwics.github.io/tree/summer-update)
