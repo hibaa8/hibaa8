@@ -7,8 +7,9 @@
     - [Agentic Study Tool](https://github.com/hibaa8/agentic-study-tool)
 - Past External Projects Spotlight
     - [CodeCure Research Project](https://github.com/angelica-moreira/CodeCure)
+    - [NASA SUITS 2025 Augmented Reality Project](https://github.com/columbiaspace/SUITS-HoloLens-25)
+    - [Columbia Women in Computer Science Website](https://github.com/CUWiCS/cuwics.github.io/)
     - [Columbia Space Initiative Website](https://github.com/columbiaspace/columbiaspace.org)
-    - [Columbia Women in Computer Science Website](https://github.com/CUWiCS/cuwics.github.io/tree/summer-update)
 - You can reach me at: **hibaaltaf98@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
