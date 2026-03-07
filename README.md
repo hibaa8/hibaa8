@@ -3,9 +3,6 @@
 
 - I am intrested in full-stack web development and Artificial Intelligence
 - I’m am learning **Node.js & LangGraph**
-- Currently wroking on
-    - AI Fitness coaching iOS app (private repo during development)
-    - [Agentic Study Tool](https://github.com/hibaa8/agentic-study-tool)
 - Past External Projects Spotlight
     - [CodeCure Research Project](https://github.com/angelica-moreira/CodeCure)
     - [NASA SUITS 2025 Augmented Reality Project](https://github.com/columbiaspace/SUITS-HoloLens-25)
